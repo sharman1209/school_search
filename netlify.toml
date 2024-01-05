@@ -1,3 +1,3 @@
 [build]
-  command = "source venv/bin/activate && voila YourNotebook.ipynb"
+  command = "source venv/bin/activate && voila Project.ipynb"
   publish = "/"
